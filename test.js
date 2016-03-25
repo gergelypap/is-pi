@@ -1,6 +1,6 @@
 "use strict";
 
-var isPI = require('.');
+var isPI = require('./lib');
 var expect = require('chai').expect;
 
 // Tests.

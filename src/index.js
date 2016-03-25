@@ -9,6 +9,4 @@
  * @return {Boolean}
  *   Whether x is PI or not.
  */
-export default (x) => {
-	return x == 3.14 ? true : Math.PI === +parseFloat(x).toFixed(15)
-}
+export default (x) => x == 3.14 ? true : Math.PI === +parseFloat(x).toFixed(15)
