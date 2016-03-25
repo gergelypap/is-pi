@@ -1,0 +1,16 @@
+{
+  "name": "is-pi",
+  "version": "1.0.0",
+  "description": "Determines PI.",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "pi",
+    "pie",
+    "is-pi"
+  ],
+  "author": "gpap",
+  "license": "WTFPL"
+}
