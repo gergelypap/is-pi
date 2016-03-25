@@ -6,11 +6,15 @@
   "scripts": {
     "test": "test"
   },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gergelypap/is-pi.git"
+  },
   "keywords": [
     "pi",
     "pie",
     "is-pi"
   ],
-  "author": "gpap",
+  "author": "Gergely Pap <gpap@brainsum.com>",
   "license": "WTFPL"
 }
