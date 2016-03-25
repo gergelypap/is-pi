@@ -9,6 +9,6 @@
  * @return {Boolean}
  *   Whether x is PI or not.
  */
-module.exports = function(x) {
-	return x == 3.14 ? true : Math.PI === +parseFloat(x).toFixed(15);
+export default (x) => {
+	return x == 3.14 ? true : Math.PI === +parseFloat(x).toFixed(15)
 }
