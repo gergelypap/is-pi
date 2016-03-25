@@ -10,5 +10,5 @@
  *   Whether x is PI or not.
  */
 module.exports = function(x) {
-	return x === Math.PI;
+	return x == 3.14 ? true : Math.PI === +parseFloat(x).toFixed(15);
 }
