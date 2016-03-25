@@ -5,6 +5,10 @@ var expect = require('chai').expect;
 
 // Tests.
 describe('Checking for arbitrary stuff.', function() {
+	it('"3.14" should be PI', function() {
+		expect(isPI("3.14")).to.equal(true);
+	});
+
 	it('Math.PI should be the PI-est PI of all', function() {
 		expect(isPI(Math.PI)).to.equal(true);
 	});
