@@ -4,7 +4,7 @@
   "description": "Determines PI.",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "test": "mocha"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,11 @@
     "is-pi"
   ],
   "author": "Gergely Pap <gpap@brainsum.com>",
-  "license": "WTFPL"
+  "license": "WTFPL",
+  "bugs": "https://github.com/gergelypap/is-pi/issues",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.4.5",
+    "sinon": "^1.17.3"
+  }
 }

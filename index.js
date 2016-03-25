@@ -9,6 +9,6 @@
  * @return {Boolean}
  *   Whether x is PI or not.
  */
-module.exports.isPI = function(x) {
+module.exports = function(x) {
 	return x === Math.PI;
 }
