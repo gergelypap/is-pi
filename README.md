@@ -1,8 +1,5 @@
-![PI](https://octodex.github.com/images/yaktocat.png)
-
-π
-isPI()
-======
+is-pi
+=====
 Determines whether something is equal to PI or not.
 
 ## Installation
