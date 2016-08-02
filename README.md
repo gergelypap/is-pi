@@ -24,4 +24,4 @@ Determines whether something is equal to PI or not.
 
 ## Why?
 
-Of course this not serious. After a guy broke npm builds worldwide by removing his packages ([see his rant](https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.iyjyv79zz)), people started to create useless and tiny npm modules as a joke, such as [is-thirteen](https://github.com/jezen/is-thirteen) or [noop3](https://github.com/sindresorhus/noop3).
+Of course this is not serious. After a guy broke npm builds worldwide by removing his packages ([see his rant](https://medium.com/@azerbike/i-ve-just-liberated-my-modules-9045c06be67c#.iyjyv79zz)), people started to create useless and tiny npm modules as a joke, such as [is-thirteen](https://github.com/jezen/is-thirteen) or [noop3](https://github.com/sindresorhus/noop3).
