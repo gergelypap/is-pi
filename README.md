@@ -1,8 +1,5 @@
-![PI](http://a3.mzstatic.com/us/r30/Purple69/v4/9e/6f/37/9e6f375c-15cf-42b5-2222-193e5c9f9462/icon256.png) ![?](http://www.iconsdb.com/icons/preview/black/question-mark-6-xxl.png)
+# π?
 
-
-is-pi
-=====
 Determines whether something is equal to PI or not.
 
 ## Installation
